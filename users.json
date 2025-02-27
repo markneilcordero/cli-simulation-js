@@ -1,0 +1,14 @@
+[
+  {
+    "accountNumber": "12345678",
+    "pin": "4321",
+    "name": "John Doe",
+    "balance": 405
+  },
+  {
+    "accountNumber": "87654321",
+    "pin": "5678",
+    "name": "Alice Smith",
+    "balance": 2100
+  }
+]
