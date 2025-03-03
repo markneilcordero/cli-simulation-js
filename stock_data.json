@@ -1,0 +1,18 @@
+{
+  "buyOrders": [
+    {
+      "type": "buy",
+      "ticker": "APPL",
+      "price": 150,
+      "quantity": 10
+    }
+  ],
+  "sellOrders": [
+    {
+      "type": "sell",
+      "ticker": "TSLA",
+      "price": 700,
+      "quantity": 5
+    }
+  ]
+}
