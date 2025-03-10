@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Mark Neil Cordero",
+    "ticketClass": "First Class",
+    "special": "VIP",
+    "priority": 0
+  },
+  {
+    "name": "Alice Smith",
+    "ticketClass": "Economy Class",
+    "special": "None",
+    "priority": 3
+  }
+]
